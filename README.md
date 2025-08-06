@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm an MSc Data Science Graduate and an Enthusiast passionate about data analysis, data visualisation, and machine learning. This space has some of my projects ranging from sentiment analysis and churn prediction to interactive dashboards.
 
 ## 👨‍💻 About Me
-I have received my MSc in Data Science degree from The University of Edinburgh. I enjoy exploring datasets, building predictive models and visualising insights. My work spans classic ML techniques, deep learning models and business intelligence tools like Tableau and Qlik Sense. I'm constantly learning and love working on interesting problems.
+I have received my MSc in Data Science degree from The University of Edinburgh. I enjoy exploring datasets, building predictive models and visualising insights. My work spans classic ML techniques, deep learning models and business intelligence tools like Tableau and Qlik Sense. I'm constantly learning and love working on interesting problems. Check out my [resume](https://github.com/Varundeepak/Varundeepak/blob/main/VarundeepakIndiaResume.pdf)!
 
 ## 🚀 Projects & Highlights
 - [**Sentiment Analysis Web App**](https://github.com/Varundeepak/huggingface-amazon-review-sentiment-analysis) – Built a web application for analysing Amazon product reviews using a pre‑trained RoBERTa model. The app supports single review inputs and CSV uploads, providing predictions with confidence scores and downloadable results. Developed with Hugging Face Transformers, PyTorch, pandas and Gradio.
