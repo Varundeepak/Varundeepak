@@ -2,10 +2,10 @@
 
 Welcome to my GitHub profile! I'm an MSc Data Science Graduate and an Enthusiast passionate about data analysis, data visualisation, and machine learning. This space has some of my projects ranging from sentiment analysis and churn prediction to interactive dashboards.
 
-## 👨‍💻 About Me
-I have received my MSc in Data Science degree from The University of Edinburgh. I enjoy exploring datasets, building predictive models and visualising insights. My work spans classic ML techniques, deep learning models and business intelligence tools like Tableau and Qlik Sense. I'm constantly learning and love working on interesting problems. Check out my [resume](https://github.com/Varundeepak/Varundeepak/blob/main/VarundeepakIndiaResume.pdf)!
+## About Me
+I have received my MSc in Data Science degree from The University of Edinburgh, UK (super proud of myself!) I enjoy exploring datasets, building predictive models and visualising insights. My work spans classic ML techniques, deep learning models and business intelligence tools like Tableau and Qlik Sense. I'm constantly learning and love working on interesting problems. Check out my [resume](https://github.com/Varundeepak/Varundeepak/blob/main/VarundeepakIndiaResume.pdf)!
 
-## 🚀 Projects & Highlights
+## Projects & Highlights
 - [**Rossmann Sales Forecasting**](https://github.com/Varundeepak/time-series-rossman) - Built time series forecasting models on the Rossmann Store Sales dataset to predict weekly sales and uncover business insights. After cleaning and exploring the data, benchmarked **ARIMA, SARIMA, and Prophet** models. SARIMA achieved the best accuracy (RMSE ~184, RMSPE ~4%), while Prophet provided a competitive accuracy with interpretable components (trend decline, weekend peaks, December spikes, promo uplift of ~40%)
 
 - [**Sentiment Analysis Web App**](https://github.com/Varundeepak/huggingface-amazon-review-sentiment-analysis) - Built a web application for analysing Amazon product reviews using a pre‑trained RoBERTa model. The app supports single review inputs and CSV uploads, providing predictions with confidence scores and downloadable results. Developed with Hugging Face Transformers, PyTorch, pandas and Gradio.
@@ -32,12 +32,12 @@ I have received my MSc in Data Science degree from The University of Edinburgh. 
 
 - [**GreyAtom Python for Data Science Projects**](https://github.com/Varundeepak/greyatom-python-for-data-science) - Completed a series of mini‑projects as part of the GreyAtom program covering Python fundamentals, OOP, NumPy, pandas and Matplotlib.
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 - **Languages:** Python, Java
 - **ML / Data:** scikit‑learn, Hugging Face Transformers, XGBoost, NumPy, pandas
 - **Visualization / BI:** Tableau, Qlik Sense, Matplotlib
 - **Frameworks:** Gradio
 - **Other:** Git & GitHub, Jupyter Notebook
 
-## 📫 How to reach me
+## How to reach me
 Feel free to reach out via [my GitHub profile](https://github.com/Varundeepak) or my [LinkedIn](https://www.linkedin.com/in/varundeepak-babu-ananthi-82606a172/). I'm always excited to connect and collaborate!
